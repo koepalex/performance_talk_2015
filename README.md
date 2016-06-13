@@ -1,2 +1,2 @@
-# performance_talk_2015
-a brief overview about performance with .NET applications
+# performance talk 2015
+a brief overview of performance within .NET applications
